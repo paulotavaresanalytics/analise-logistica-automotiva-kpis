@@ -1,0 +1,6 @@
+veiculo,km_rodado,combustivel_litros,custo_manutencao,tempo_entrega_horas
+V001,1200,150,800,24
+V002,900,110,600,18
+V003,1500,180,950,30
+V004,800,100,500,16
+V005,1100,140,700,22
