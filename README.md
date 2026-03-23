@@ -1,2 +1,15 @@
-# analise-logistica-automotiva-kpis
-Projeto de análise de dados logísticos com Python, focado em KPIs como custo por km, consumo de combustível, manutenção e tempo de entrega. Simulação realista de operações em indústria automotiva de médio porte.
+# 🚗 Análise de Dados Logísticos - Indústria Automotiva
+
+Projeto de análise de dados logísticos de uma empresa automotiva de médio porte (~200 funcionários), com dados fictícios.
+
+## KPIs
+- Custo por KM
+- Consumo de combustível
+- Manutenção preventiva
+- Tempo de entrega
+
+## Tecnologias
+Python, Pandas, Matplotlib
+
+## Autor
+Mateus Junqueira
