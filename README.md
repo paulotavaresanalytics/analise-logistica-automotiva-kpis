@@ -35,18 +35,31 @@ Características da empresa:
 ## 📁 Estrutura do projeto
 
 analise-logistica-automotiva-kpis/
+
 ├── data/
+    
 │   └── dados_frota.csv
+
 ├── notebooks/
+
 │   └── analise.ipynb
+
 ├── src/
+
 │   └── kpis.py
+
 ├── reports/
+
 │   └── insights.md
+
 ├── docs/
+
 │   └── dicionario_dados.md
+
 ├── requirements.txt
+
 ├── .gitignore
+
 └── README.md
 
 ---
